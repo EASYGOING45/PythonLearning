@@ -1,0 +1,13 @@
+'''
+散列表，即python中的字典，可以通过dict()函数进行创建
+'''
+book=dict()
+book["apple"]=0.67
+book["banana"]=1.49
+book["avocado"]=1.49
+print("苹果的价格是")
+print(book["apple"])
+print("香蕉的价格是")
+print(book["banana"])
+print("鳄梨的价格是")
+print(book["avocado"])
